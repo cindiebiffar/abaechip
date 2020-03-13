@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahzeicauj.dan-crenshaw.com/sitemap.xml
